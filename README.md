@@ -1,37 +1,18 @@
 # GMAP
 
-#### 介绍
+#### Introduction
 Gmap System, a GIS Kerney system, in course of C++ and GIS Kernel Development, NNU, 2021
 
-#### 软件架构
-软件架构说明
+#### Background
+A GIS kernel system, equipped with GIS major functions such as projection and coordinates, vector and raster map rendering, symbolization, files and database management. 
+
+My job is to add some functions to this system such geometry graphics drawing, projections and coordinated conversion, customized symbols and attribute layers using C/C++ and MFC.
+
+### System demo
+![symbol line](demo1.png)
+
+![draw rectangle](demo2.png)
+
+![dialogue](demo3.png)
 
 
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
